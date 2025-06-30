@@ -1,0 +1,10 @@
+GTLeHT8MSIwWa1ZLmvEQvrrLsNNSHffZfzfHMdBV8iIH => Secret
+APIaiWbzdzsx5g9 => API key
+wss://outbound-nk4vt59j.livekit.cloud => Websocket URL
+========= ENV Variables =========
+LIVEKIT_URL=wss://outbound-nk4vt59j.livekit.cloud
+LIVEKIT_API_KEY=APIaiWbzdzsx5g9
+LIVEKIT_API_SECRET=GTLeHT8MSIwWa1ZLmvEQvrrLsNNSHffZfzfHMdBV8iIH
+
+========= Gemini API =========
+AIzaSyAunDmH92oFvTLEp9cvFJKtGHLsXU2Xxls
